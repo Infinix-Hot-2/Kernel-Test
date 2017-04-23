@@ -1,0 +1,1 @@
+obj-$(CONFIG_ARCH_MT6580) += v2/
